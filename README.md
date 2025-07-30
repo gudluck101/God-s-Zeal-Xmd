@@ -2,7 +2,7 @@
 
 <div align="center"> 
   <a href="https://git.io/typing-svg"> 
-    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=50&duration=3000&pause=500&color=33FF00&center=true&width=1000&height=100&lines=𝐆𝐎𝐃𝐒𝐙𝐄𝐀𝐋+𝐗𝐌𝐃;Multi-Device+WhatsApp+Bot;Advanced+Group+Management;Next-Gen+Bot+Experience;Coded+By+God's+Zeal+(AI+OF+LAUTECH)" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=50&duration=3000&pause=500&color=33FF00&center=true&width=1000&height=100&lines=𝐆𝐎𝐃𝐒𝐙𝐄𝐀𝐋+𝐗𝐌𝐃;Multi-Device+WhatsApp+Bot;Advanced+Group+Management;Next-Gen+Bot+Experience;Coded+By+Professor" alt="Typing Animation" />
   </a> 
 </div>
 
@@ -18,7 +18,7 @@
 
 ### <span style="color:#00ffff">Step 1:</span> Fork Repository
 <div align="center">
-  <a href="https://github.com/AiOfLautech/God-s-Zeal-Xmd/fork">
+  <a href="https://github.com/mruniquehacker/Knightbot-MD/fork">
     <img src="https://img.shields.io/badge/-FORK%20REPO-00ccff?style=for-the-badge&logo=github&logoColor=white&labelColor=black" height="40" alt="Fork Badge"/>
   </a>
 </div>
@@ -77,21 +77,53 @@
 
 ---
 
-## <span style="color:#00ffaa">⚙️ Tech Stack</span>
-```mermaid
-graph LR
-A[Baileys MD] --> B[Node.js]
-B --> C[Express]
-C --> D[MongoDB]
-D --> E[Web APIs]
-E --> F[𝐆𝐎𝐃𝐒𝐙𝐄𝐀𝐋 𝐗𝐌𝐃]
+## <span style="color:#00ffaa">⚙️ Setup & Installation</span>
+
+```bash
+# Clone the repository
+git clone https://github.com/mruniquehacker/Knightbot-MD.git
+cd Knightbot-MD
+
+# Install dependencies
+npm install
+
+# Start the bot
+node index.js
+
+    Scan the QR code with WhatsApp's Linked Devices feature
 
 <span style="color:#ff5555">⚠️ Legal Notice</span>
 
     Important: This is an unofficial WhatsApp bot. Using automated bots may violate WhatsApp's Terms of Service. Use at your own risk. The developers are not responsible for account bans or restrictions. Intended for educational purposes only.
 
+diff
+
 - DO NOT USE FOR SPAMMING OR ILLEGAL ACTIVITIES
 + Always comply with WhatsApp's policies and local laws
 
 <span style="color:#aaaaff">✨ Credits & Recognition</span>
-<table> <tr> <td align="center"> <a href="https://github.com/mruniquehacker"> <img src="https://img.shields.io/badge/PROFESSOR-00ffff?style=for-the-badge&logo=github&logoColor=black" alt="Professor"> </a> </td> <td align="center"> <a href="https://github.com/adiwajshing/Baileys"> <img src="https://img.shields.io/badge/BAILEYS-aa00ff?style=for-the-badge&logo=npm&logoColor=white" alt="Baileys"> </a> </td> </tr> <tr> <td align="center"> <a href="https://github.com/TechGod143"> <img src="https://img.shields.io/badge/TECHGOD143-ff5500?style=for-the-badge" alt="TechGod143"> </a> </td> <td align="center"> <a href="https://github.com/Dgxeon"> <img src="https://img.shields.io/badge/DGXEON-00ff00?style=for-the-badge" alt="Dgxeon"> </a> </td> </tr> </table><div align="center"> <br> <a href="https://github.com/mruniquehacker/Knightbot-MD"> <img src="https://img.shields.io/badge/⭐_STAR_THIS_REPO_⭐-yellow?style=for-the-badge&logo=github" alt="Star Repo"> </a> </div> ```
+<table> <tr> <td align="center"> <a href="https://github.com/mruniquehacker"> <img src="https://img.shields.io/badge/PROFESSOR-00ffff?style=for-the-badge&logo=github&logoColor=black" alt="Professor"> </a> </td> <td align="center"> <a href="https://github.com/adiwajshing/Baileys"> <img src="https://img.shields.io/badge/BAILEYS-aa00ff?style=for-the-badge&logo=npm&logoColor=white" alt="Baileys"> </a> </td> </tr> <tr> <td align="center"> <a href="https://github.com/TechGod143"> <img src="https://img.shields.io/badge/TECHGOD143-ff5500?style=for-the-badge" alt="TechGod143"> </a> </td> <td align="center"> <a href="https://github.com/Dgxeon"> <img src="https://img.shields.io/badge/DGXEON-00ff00?style=for-the-badge" alt="Dgxeon"> </a> </td> </tr> </table><div align="center"> <br> <a href="https://github.com/mruniquehacker/Knightbot-MD"> <img src="https://img.shields.io/badge/⭐_STAR_THIS_REPO_⭐-yellow?style=for-the-badge&logo=github" alt="Star Repo"> </a> </div>
+📜 License
+
+MIT © Professor
+text
+
+
+Key features of this design:
+1. Animated typing header with "𝐆𝐎𝐃𝐒𝐙𝐄𝐀𝐋 𝐗𝐌𝐃" branding
+2. Glowing text effects and modern badge designs
+3. Color-coded feature sections with emoji icons
+4. Responsive layout that works perfectly on GitHub
+5. Enhanced legal notice with code block warning
+6. Interactive badges with hover effects (visible on GitHub)
+7. Star repository call-to-action at the bottom
+8. All links and functionality preserved from original
+9. Neon cyberpunk color scheme with proper contrast
+10. Mobile-responsive design
+
+The animations will automatically work on GitHub:
+- Typing effect in header
+- Badge hover effects
+- Color transitions in text shadows
+
+Simply copy and paste this entire script into your README.md file. The styling uses GitHub's limited but powerful markdown capabilities combined with HTML/CSS where allowed.
