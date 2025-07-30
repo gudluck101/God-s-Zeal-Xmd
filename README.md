@@ -1,194 +1,97 @@
-# 🤖 Knight Bot
-
-This is a WhatsApp bot built using the Baileys library for group management, including features like tagging all members, muting/unmuting, and many more. It's designed to help admins efficiently manage WhatsApp groups.
+# 🤖 <span style="font-size:1.5em;text-shadow:0 0 10px #00ffea,0 0 20px #0084ff">𝐆𝐎𝐃𝐒𝐙𝐄𝐀𝐋 𝐗𝐌𝐃</span>
 
 <div align="center"> 
   <a href="https://git.io/typing-svg"> 
-    <img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=33ff00&center=true&width=910&height=100&lines=Knight-Bot;Multi+Device+Whatsapp+Bot;Coded+By+Professor" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=50&duration=3000&pause=500&color=33FF00&center=true&width=1000&height=100&lines=𝐆𝐎𝐃𝐒𝐙𝐄𝐀𝐋+𝐗𝐌𝐃;Multi-Device+WhatsApp+Bot;Advanced+Group+Management;Next-Gen+Bot+Experience;Coded+By+God's+Zeal+(AI+OF+LAUTECH)" alt="Typing Animation" />
   </a> 
-</div> 
+</div>
 
-<div align="center"> 
-  <a href="https://youtube.com/@mr_unique_hacker"> 
-    <img src="https://github.com/mruniquehacker/Knightbot-MD/blob/main/assets/bot_image.jpg" alt="Knight Bot" height="300"> 
-  </a> 
+<br>
+
+<div align="center">
+  <img src="https://github.com/mruniquehacker/Knightbot-MD/blob/main/assets/bot_image.jpg" alt="𝐆𝐎𝐃𝐒𝐙𝐄𝐀𝐋 𝐗𝐌𝐃" height="300" style="border-radius:20px;box-shadow:0 0 25px #00ccff">
 </div>
 
 ---
 
-## 🚀 Steps to Deploy
+## 🚀 <span style="text-shadow:0 0 8px #ff00aa">Deployment Guide</span>
 
-### Step 1: Fork the Repository
-
-Click the button below to fork the Knight Bot repository to your GitHub account:
-
+### <span style="color:#00ffff">Step 1:</span> Fork Repository
 <div align="center">
-  <a href="https://github.com/mruniquehacker/Knightbot-MD/fork">
-    <img src="https://img.shields.io/badge/Fork-Repository-blue?style=for-the-badge" alt="Fork the repository"/>
+  <a href="https://github.com/AiOfLautech/God-s-Zeal-Xmd/fork">
+    <img src="https://img.shields.io/badge/-FORK%20REPO-00ccff?style=for-the-badge&logo=github&logoColor=white&labelColor=black" height="40" alt="Fork Badge"/>
   </a>
 </div>
 
 ---
 
-### Step 2: Get Pair Code
-
-Deploy the bot and easily connect it to your WhatsApp account by pair code. Click the button below to deploy the bot on Replit.
-
+### <span style="color:#00ffff">Step 2:</span> Get Pair Code
 <div align="center">
   <a href="https://replit.com/@DGXeon/Xeon-PairCode?v=1" target="_blank">
-    <img src="https://img.shields.io/badge/GET%20PAIR%20CODE-Replit-success?style=for-the-badge" alt="Deploy on Replit"/>
+    <img src="https://img.shields.io/badge/-REPLIT%20PAIR%20CODE-00eeff?style=for-the-badge&logo=replit&logoColor=white&labelColor=black" height="40" alt="Replit Badge"/>
   </a>
-</div>
-
-<div align="center">
+  <span style="font-size:30px">↔️</span>
   <a href="https://knight-bot-paircode.onrender.com" target="_blank">
-    <img src="https://img.shields.io/badge/GET%20PAIR%20CODE-Easy%20Method-ff4d4d?style=for-the-badge" alt="Generate Pair Code"/>
+    <img src="https://img.shields.io/badge/-RENDER%20PAIR%20CODE-5ed6ff?style=for-the-badge&logo=render&logoColor=white&labelColor=black" height="40" alt="Render Badge"/>
   </a>
 </div>
 
-
-### After getting creds.json file, upload it to session folder
+*Upload generated `creds.json` to session folder*
 
 ---
 
-### Step 3: Deploy Now
-
-For further customization and setup guidance, click the button below:
-
+### <span style="color:#00ffff">Step 3:</span> Deploy Now
 <div align="center">
   <a href="https://youtu.be/-oz_u1iMgf8">
-    <img src="https://img.shields.io/badge/Deploy Tutorial-dc3545?style=for-the-badge&logo=youtube" alt="YouTube Link"/>
+    <img src="https://img.shields.io/badge/-DEPLOY%20TUTORIAL-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=black" height="40" alt="YouTube Tutorial"/>
   </a>
-  <a href="https://bot-hosting.net/?aff=1068419752923508776">
-    <img src="https://img.shields.io/badge/Deploy on Panel-28a745?style=for-the-badge" alt="Deploy on Panel"/>
+  <a href="https://dashboard.katabump.com/auth/login#d6b7d6">
+    <img src="https://img.shields.io/badge/-KATABUMP%20PANEL-D6B7D6?style=for-the-badge&logo=serverless&logoColor=black&labelColor=white" height="40" alt="Katabump Panel"/>
   </a>
 </div>
 
+---
 
-### Deploy Now on Below Panel
-<div align="center">
-<a href="https://dashboard.katabump.com/auth/login#d6b7d6" target="_blank">
-  <img src="https://img.shields.io/badge/Katabump-D6B7D6?style=for-the-badge&logo=server&logoColor=black" alt="Katabump"/>
-</a>
-</div>
+## <span style="color:#ffaa00">✨ Key Features</span>
 
-### Join Us
+- <span style="font-weight:bold;text-shadow:0 0 5px #00ff00">𝐆𝐫𝐨𝐮𝐩 𝐌𝐚𝐧𝐚𝐠𝐞𝐦𝐞𝐧𝐭</span>  
+  `Tag All` | `Mute/Unmute` | `Anti-Link` | `Warn System`
+- <span style="font-weight:bold;text-shadow:0 0 5px #ff00aa">𝐄𝐧𝐭𝐞𝐫𝐭𝐚𝐢𝐧𝐦𝐞𝐧𝐭</span>  
+  `Games` | `Sticker Creator` | `Tic-Tac-Toe` 
+- <span style="font-weight:bold;text-shadow:0 0 5px #00ccff">𝐔𝐭𝐢𝐥𝐢𝐭𝐢𝐞𝐬</span>  
+  `Text-to-Speech` | `Broadcast` | `Admin Controls`
+- <span style="font-weight:bold;text-shadow:0 0 5px #aa00ff">𝐒𝐞𝐜𝐮𝐫𝐢𝐭𝐲</span>  
+  `Admin Restricted` | `Auto-Safety` | `Anti-Spam`
 
+---
+
+## <span style="color:#ff55ff">🔗 Connect With Us</span>
 <div align="center">
   <a href="https://t.me/+3QhFUZHx-nhhZmY1">
-    <img src="https://img.shields.io/badge/Join%20Telegram-0078E7?style=for-the-badge&logo=telegram&logoColor=white" alt="Join Telegram"/>
+    <img src="https://img.shields.io/badge/-TELEGRAM%20CHANNEL-0088cc?style=for-the-badge&logo=telegram&logoColor=white" height="35" alt="Telegram"/>
   </a>
   <a href="https://whatsapp.com/channel/0029Va90zAnIHphOuO8Msp3A">
-    <img src="https://img.shields.io/badge/Join%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Join WhatsApp"/>
+    <img src="https://img.shields.io/badge/-WHATSAPP%20CHANNEL-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="35" alt="WhatsApp"/>
   </a>
 </div>
 
 ---
 
-## ⚙️ Features
+## <span style="color:#00ffaa">⚙️ Tech Stack</span>
+```mermaid
+graph LR
+A[Baileys MD] --> B[Node.js]
+B --> C[Express]
+C --> D[MongoDB]
+D --> E[Web APIs]
+E --> F[𝐆𝐎𝐃𝐒𝐙𝐄𝐀𝐋 𝐗𝐌𝐃]
 
-- **Tag all group members** with the `.tagall` command
-- **Admin restricted usage** (Only group admins can use certain commands)
-- **Games** like Tic-Tac-Toe for interactive group engagement
-- **Text-to-Speech** with `.tts`
-- **Sticker creation** with `.sticker`
-- **Anti-link detection** for group safety
-- **Warn and manage group members** with admin control
+<span style="color:#ff5555">⚠️ Legal Notice</span>
 
----
+    Important: This is an unofficial WhatsApp bot. Using automated bots may violate WhatsApp's Terms of Service. Use at your own risk. The developers are not responsible for account bans or restrictions. Intended for educational purposes only.
 
-## 📖 About
+- DO NOT USE FOR SPAMMING OR ILLEGAL ACTIVITIES
++ Always comply with WhatsApp's policies and local laws
 
-The Knight WhatsApp Bot assists group admins by providing them with tools to efficiently manage large WhatsApp groups. The bot uses the Baileys library to interact with the WhatsApp Web API and supports multi-device features.
-
-It is lightweight and can be easily customized to add more commands as per your requirements. The bot runs in a Node.js environment and provides QR code-based authentication to link your WhatsApp account.
-
----
-
-## 🛠️ Setup & Installation
-
-### Prerequisites
-
-- Node.js installed on your system
-- Git installed (for cloning the repository)
-
-### Step-by-Step Setup
-
-1. **Clone the repository:**
-
-    ```bash
-    git clone https://github.com/mruniquehacker/Knightbot-MD.git
-    cd Knightbot-MD
-    ```
-
-2. **Install the dependencies:**
-
-    ```bash
-    npm install
-    ```
-
-3. **Run the bot:**
-
-    ```bash
-    node index.js
-    ```
-
-4. **Scan the QR code:**
-
-    Once the bot starts, a QR code will appear in the terminal. Scan this QR code using the Linked Devices feature in WhatsApp to connect your WhatsApp account with the bot.
-
----
-
-
-## 📄 License
-
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT) - see the [LICENSE](https://github.com/mruniquehacker/Knightbot-MD/blob/main/LICENSE) file for details.
-
----
-
-## 🙌 Contributions
-
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/mruniquehacker/Knightbot-MD/issues).
-
----
-
-## 🌟 Show your support
-
-If you like this project, please give it a [⭐️ star on GitHub](https://github.com/mruniquehacker/Knightbot)!
-
-
-## Credits
-
-- [Professor](https://github.com/mruniquehacker)
-- [Baileys](https://github.com/adiwajshing/Baileys)
-- [TechGod143](https://github.com/TechGod143) for pair code
-- [Dgxeon](https://github.com/Dgxeon) for pair code
-
----
-
-## ⚠️ Important Warning
-
-**Note:** This bot is created for educational purposes only. This is NOT an official WhatsApp bot. Using this bot may lead to your WhatsApp account being banned. Use it at your own risk. The developers will not be responsible for any consequences or account bans that may occur while using this bot.
-
-## 📝 Legal
-
-- This project is not affiliated with, authorized, maintained, sponsored or endorsed by WhatsApp or any of its affiliates or subsidiaries.
-- This is an independent and unofficial software. Use at your own risk.
-- Do not spam people with this bot.
-- Do not use this bot to send bulk messages or for illegal purposes.
-- The developers assume no liability and are not responsible for any misuse or damage caused by this program.
-
-### License
-This project is licensed under the MIT License. However, you must:
-- Use this software in compliance with all applicable laws and regulations
-- Include original license and copyright notices
-- Credit original authors
-- Not use for spam or malicious purposes
-
-## 📜 Copyright Notice
-
-Copyright (c) 2024 Professor. All rights reserved.
-
-This project contains code from various open source projects:
-- Baileys (MIT License)
-- Other libraries as listed in package.json
+<span style="color:#aaaaff">✨ Credits & Recognition</span>
+<table> <tr> <td align="center"> <a href="https://github.com/mruniquehacker"> <img src="https://img.shields.io/badge/PROFESSOR-00ffff?style=for-the-badge&logo=github&logoColor=black" alt="Professor"> </a> </td> <td align="center"> <a href="https://github.com/adiwajshing/Baileys"> <img src="https://img.shields.io/badge/BAILEYS-aa00ff?style=for-the-badge&logo=npm&logoColor=white" alt="Baileys"> </a> </td> </tr> <tr> <td align="center"> <a href="https://github.com/TechGod143"> <img src="https://img.shields.io/badge/TECHGOD143-ff5500?style=for-the-badge" alt="TechGod143"> </a> </td> <td align="center"> <a href="https://github.com/Dgxeon"> <img src="https://img.shields.io/badge/DGXEON-00ff00?style=for-the-badge" alt="Dgxeon"> </a> </td> </tr> </table><div align="center"> <br> <a href="https://github.com/mruniquehacker/Knightbot-MD"> <img src="https://img.shields.io/badge/⭐_STAR_THIS_REPO_⭐-yellow?style=for-the-badge&logo=github" alt="Star Repo"> </a> </div> ```
