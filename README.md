@@ -26,19 +26,17 @@
 
 ---
 
-### Step 2: Get Pair Code
+### Step 2: Download & Host
 
 <div align="center">
-  <a href="https://replit.com/@DGXeon/Xeon-PairCode?v=1" target="_blank">
-    <img src="https://img.shields.io/badge/-REPLIT%20PAIR%20CODE-00eeff?style=for-the-badge&logo=replit&logoColor=white&labelColor=black" height="40" alt="Replit Badge"/>
-  </a>
-  <span style="font-size:30px">↔️</span>
-  <a href="https://knight-bot-paircode.onrender.com" target="_blank">
-    <img src="https://img.shields.io/badge/-RENDER%20PAIR%20CODE-5ed6ff?style=for-the-badge&logo=file&logoColor=white&labelColor=black" height="40" alt="Render Badge"/>
+  <a href="https://github.com/AiOfLautech/God-s-Zeal-Xmd/archive/refs/heads/main.zip">
+    <img src="https://img.shields.io/badge/-DOWNLOAD%20ZIP-00ccff?style=for-the-badge&logo=github&logoColor=white&labelColor=black" height="40" alt="Download ZIP"/>
   </a>
 </div>
 
-*Upload generated `creds.json` to your bot's `session` folder.*
+1. Download the ZIP archive of the latest code.  
+2. Extract and upload the folder to your hosting platform.  
+3. Ensure `index.js` and `package.json` are in the root.  
 
 ---
 
