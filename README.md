@@ -7,7 +7,7 @@
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/AiOfLautech/God-s-Zeal-Xmd/refs/heads/main/assets/bot_image.jpeg" alt="𝐆𝐎𝐃𝐒𝐙𝐄𝐀𝐋 𝐗𝐌𝐃" height="300" style="border-radius:20px;box-shadow:0 0 25px #00ccff">
+  <img src="https://raw.githubusercontent.com/AiOfLautech/God-s-Zeal-Xmd/refs/heads/main/assets/bot_image.jpg" alt="𝐆𝐎𝐃𝐒𝐙𝐄𝐀𝐋 𝐗𝐌𝐃" height="300" style="border-radius:20px;box-shadow:0 0 25px #00ccff">
 </div>
 
 ---
