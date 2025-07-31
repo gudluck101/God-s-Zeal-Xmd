@@ -91,7 +91,8 @@ npm install
 # Start the bot
 node index.js
 
-    Scan the QR code with WhatsApp's Linked Devices feature```
+    Scan the QR code with WhatsApp's Linked Devices feature
+bash```
 
 ### <span style="color:#ff5555">⚠️ Legal Notice</span>
 
