@@ -1,10 +1,8 @@
 # 𝐆𝐎𝐃𝐒𝐙𝐄𝐀𝐋 𝐗𝐌𝐃
 
-<div align="center"> 
-  <a href="https://github.com/AiOfLautech/God-s-Zeal-Xmd"> 
-    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=50&duration=3000&pause=500&color=33FF00&center=true&width=1000&height=100&lines=𝐆𝐎𝐃𝐒𝐙𝐄𝐀𝐋+𝐗𝐌𝐃;Multi-Device+WhatsApp+Bot;Advanced+Group+Management;Next-Gen+Bot+Experience;Coded+By+Godwin+Hephzibah+Tech" alt="Typing Animation" />
-  </a> 
-</div>
+<p align="center">
+  ![Typing Animation](https://readme-typing-svg.demolab.com?font=Orbitron&size=50&duration=3000&pause=500&color=33FF00&center=true&width=800&height=100&lines=𝐆𝐎𝐃𝐒𝐙𝐄𝐀𝐋+𝐗𝐌𝐃;Multi-Device+WhatsApp+Bot;Advanced+Group+Management;Next-Gen+Bot+Experience;Coded+By+Godwin+Hephzibah+Tech)
+</p>
 
 ---
 
@@ -18,21 +16,21 @@
 
 ### Step 1: Fork Repository
 
-<div align="center">
+<p align="center">
   <a href="https://github.com/AiOfLautech/God-s-Zeal-Xmd/fork">
     <img src="https://img.shields.io/badge/-FORK%20REPO-00ccff?style=for-the-badge&logo=github&logoColor=white&labelColor=black" height="40" alt="Fork Badge"/>
   </a>
-</div>
+</p>
 
 ---
 
 ### Step 2: Download & Host
 
-<div align="center">
+<p align="center">
   <a href="https://github.com/AiOfLautech/God-s-Zeal-Xmd/archive/refs/heads/main.zip">
     <img src="https://img.shields.io/badge/-DOWNLOAD%20ZIP-00ccff?style=for-the-badge&logo=github&logoColor=white&labelColor=black" height="40" alt="Download ZIP"/>
   </a>
-</div>
+</p>
 
 1. Download the ZIP archive of the latest code.  
 2. Extract and upload the folder to your hosting platform.  
@@ -42,14 +40,14 @@
 
 ### Step 3: Deploy Now
 
-<div align="center">
+<p align="center">
   <a href="https://youtu.be/-oz_u1iMgf8">
     <img src="https://img.shields.io/badge/-DEPLOY%20TUTORIAL-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=black" height="40" alt="YouTube Tutorial"/>
   </a>
   <a href="https://dashboard.katabump.com/auth/login#d6b7d6">
     <img src="https://img.shields.io/badge/-KATABUMP%20PANEL-D6B7D6?style=for-the-badge&logo=serverless&logoColor=black&labelColor=white" height="40" alt="Katabump Panel"/>
   </a>
-</div>
+</p>
 
 ---
 
@@ -68,14 +66,14 @@
 
 ## 🔗 Connect With Us
 
-<div align="center">
+<p align="center">
   <a href="https://t.me/+3QhFUZHx-nhhZmY1">
     <img src="https://img.shields.io/badge/-TELEGRAM%20CHANNEL-0088cc?style=for-the-badge&logo=telegram&logoColor=white" height="35" alt="Telegram"/>
   </a>
   <a href="https://whatsapp.com/channel/0029Va90zAnIHphOuO8Msp3A">
     <img src="https://img.shields.io/badge/-WHATSAPP%20CHANNEL-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="35" alt="WhatsApp"/>
   </a>
-</div>
+</p>
 
 ---
 
@@ -123,11 +121,11 @@ Always comply with WhatsApp's policies and local laws.
   </tr>
 </table>
 
-<div align="center"> 
+<p align="center"> 
   <a href="https://github.com/AiOfLautech/God-s-Zeal-Xmd/star">
     <img src="https://img.shields.io/badge/⭐_STAR_THIS_REPO_⭐-yellow?style=for-the-badge&logo=github" alt="Star Repo">
   </a>
-</div>
+</p>
 
 ---
 
