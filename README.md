@@ -1,7 +1,9 @@
 # 𝐆𝐎𝐃𝐒𝐙𝐄𝐀𝐋 𝐗𝐌𝐃
 
 <p align="center">
-  (https://readme-typing-svg.demolab.com?font=Orbitron&size=50&duration=3000&pause=500&color=33FF00&center=true&width=800&height=100&lines=𝐆𝐎𝐃𝐒𝐙𝐄𝐀𝐋+𝐗𝐌𝐃;Multi-Device+WhatsApp+Bot;Advanced+Group+Management;Next-Gen+Bot+Experience;Coded+By+Godwin+Hephzibah+Tech)
+  <a href="https://git.io/typing-svg"> 
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=50&duration=3000&pause=500&color=33FF00&center=true&width=800&height=100&lines=𝐆𝐎𝐃𝐒𝐙𝐄𝐀𝐋+𝐗𝐌𝐃;Multi-Device+WhatsApp+Bot;Advanced+Group+Management;Next-Gen+Bot+Experience;Coded+By+Godwin+Hephzibah+Tech" alt="Typing SVG" />
+  </a> 
 </p>
 
 ---
