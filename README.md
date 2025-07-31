@@ -41,7 +41,7 @@
 ### Step 3: Deploy Now
 
 <p align="center">
-  <a href="https://youtu.be/-oz_u1iMgf8">
+  <a href="">
     <img src="https://img.shields.io/badge/-DEPLOY%20TUTORIAL-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=black" height="40" alt="YouTube Tutorial"/>
   </a>
   <a href="https://dashboard.katabump.com/auth/login#d6b7d6">
