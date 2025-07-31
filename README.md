@@ -1,13 +1,13 @@
 # 𝐆𝐎𝐃𝐒𝐙𝐄𝐀𝐋 𝐗𝐌𝐃
 
 <p align="center">
-  ![Typing Animation](https://readme-typing-svg.demolab.com?font=Orbitron&size=50&duration=3000&pause=500&color=33FF00&center=true&width=800&height=100&lines=𝐆𝐎𝐃𝐒𝐙𝐄𝐀𝐋+𝐗𝐌𝐃;Multi-Device+WhatsApp+Bot;Advanced+Group+Management;Next-Gen+Bot+Experience;Coded+By+Godwin+Hephzibah+Tech)
+  (https://readme-typing-svg.demolab.com?font=Orbitron&size=50&duration=3000&pause=500&color=33FF00&center=true&width=800&height=100&lines=𝐆𝐎𝐃𝐒𝐙𝐄𝐀𝐋+𝐗𝐌𝐃;Multi-Device+WhatsApp+Bot;Advanced+Group+Management;Next-Gen+Bot+Experience;Coded+By+Godwin+Hephzibah+Tech)
 </p>
 
 ---
 
 <div align="center">
-  <img src="https://github.com/AiOfLautech/God-s-Zeal-Xmd/assets/bot_image.jpeg" alt="𝐆𝐎𝐃𝐒𝐙𝐄𝐀𝐋 𝐗𝐌𝐃" height="300" style="border-radius:20px;box-shadow:0 0 25px #00ccff">
+  <img src="https://raw.githubusercontent.com/AiOfLautech/God-s-Zeal-Xmd/refs/heads/main/assets/bot_image.jpeg" alt="𝐆𝐎𝐃𝐒𝐙𝐄𝐀𝐋 𝐗𝐌𝐃" height="300" style="border-radius:20px;box-shadow:0 0 25px #00ccff">
 </div>
 
 ---
