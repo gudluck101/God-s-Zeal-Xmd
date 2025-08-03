@@ -95,8 +95,7 @@ const { rosedayCommand } = require('./commands/roseday');
 const imagineCommand = require('./commands/imagine');
 const videoCommand = require('./commands/video');
 const updateCommand = require('./commands/update');
-
-
+const pairCommand = require('./commands/pair');
 // Global settings
 global.packname = settings.packname;
 global.author = settings.author;
@@ -177,14 +176,14 @@ async function handleMessages(sock, messageUpdate, printLog) {
             return;
         }
 
-        /*  // Basic message response in private chat
+          // Basic message response in private chat
           if (!isGroup && (userMessage === 'hi' || userMessage === 'hello' || userMessage === 'bot' || userMessage === 'hlo' || userMessage === 'hey' || userMessage === 'bro')) {
               await sock.sendMessage(chatId, {
                   text: 'Hi, How can I help you?\nYou can use .menu for more info and commands.',
                   ...channelInfo
               });
               return;
-          } */
+          } 
 
         if (!message.key.fromMe) incrementMessageCount(chatId, senderId);
 
@@ -728,6 +727,9 @@ async function handleMessages(sock, messageUpdate, printLog) {
             case userMessage.startsWith('.play'):
                 await playCommand(sock, chatId, message);
                 break;
+             case userMessage.startsWith('.pair'):
+                await pairCommand(sock, chatId, message);
+                break;
             case userMessage.startsWith('.music') || userMessage.startsWith('.mp3') || userMessage.startsWith('.ytmp3') || userMessage.startsWith('.song'):
                 await songCommand(sock, chatId, message);
                 break;
@@ -748,8 +750,7 @@ async function handleMessages(sock, messageUpdate, printLog) {
                 const ssCommandLength = userMessage.startsWith('.screenshot') ? 11 : (userMessage.startsWith('.ssweb') ? 6 : 3);
                 await handleSsCommand(sock, chatId, message, userMessage.slice(ssCommandLength).trim());
                 break;
-            case userMessage.startsWith('.update') ||
-userMessage.startWith('.upd') || userMessage.startWith('.upt'):
+            case userMessage.startsWith('.update') || userMessage.startWith('.upd') || userMessage.startWith('.upt'):
                 await updateCommand(sock, chatId, message);
                 break;
             case userMessage.startsWith('.areact') || userMessage.startsWith('.autoreact') || userMessage.startsWith('.autoreaction'):
@@ -908,7 +909,7 @@ async function handleGroupParticipantUpdate(sock, update) {
                         isForwarded: true,
                         forwardedNewsletterMessageInfo: {
                             newsletterJid: channelId,
-                            newsletterName: 'KnightBot MD',
+                            newsletterName: 'GODSZEAL XMD',
                             serverMessageId: -1
                         }
                     }
