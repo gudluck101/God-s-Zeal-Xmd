@@ -46,8 +46,8 @@
   <a href="">
     <img src="https://img.shields.io/badge/-DEPLOY%20TUTORIAL-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=black" height="40" alt="YouTube Tutorial"/>
   </a>
-  <a href="https://dashboard.katabump.com/auth/login#d787c7">
-    <img src="https://img.shields.io/badge/-KATABUMP%20PANEL-D6B7D6?style=for-the-badge&logo=serverless&logoColor=black&labelColor=white" height="40" alt="Katabump Panel"/>
+  <a href="https://bot-hosting.net/?aff=1271743046865915927">
+    <img src="https://img.shields.io/badge/-BOTHOSTING%20PANEL-D6B7D6?style=for-the-badge&logo=serverless&logoColor=black&labelColor=white" height="40" alt="Bot Hosting Panel"/>
   </a>
 </p>
 
