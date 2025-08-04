@@ -69,10 +69,10 @@
 ## 🔗 Connect With Us
 
 <p align="center">
-  <a href="https://t.me/+3QhFUZHx-nhhZmY1">
+  <a href="https://t.me/aitoolshub01">
     <img src="https://img.shields.io/badge/-TELEGRAM%20CHANNEL-0088cc?style=for-the-badge&logo=telegram&logoColor=white" height="35" alt="Telegram"/>
   </a>
-  <a href="https://whatsapp.com/channel/0029Va90zAnIHphOuO8Msp3A">
+  <a href="https://whatsapp.com/channel/0029Va90zAnIHO8Msp3A">
     <img src="https://img.shields.io/badge/-WHATSAPP%20CHANNEL-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="35" alt="WhatsApp"/>
   </a>
 </p>
@@ -83,8 +83,8 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/mruniquehacker/Knightbot-MD.git
-cd Knightbot-MD
+git clone https://github.com/AiOfLautech/God-s-Zeal-Xmd.git
+cd God-s-Zeal-Xmd
 
 # Install dependencies
 npm install
